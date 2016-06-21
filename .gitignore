@@ -1,0 +1,11 @@
+*.Rhistory
+*.pyc
+*.DS_Store
+*.png
+*.rdx
+*.RData
+*.rdb
+*.html
+images/*
+hours.txt
+*.json
