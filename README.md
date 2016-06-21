@@ -7,3 +7,5 @@ The code is not yet tested, and as such, may still contain bugs. Nor has it been
 To run the code, download the entire directory, navigate to the directory using the command line and run `scrapy crawl maryland -o items.json`.
 
 The output is a json file with the the details of each offender, and properties of the picture. The pictures are downloaded into `images/full`.
+
+This spider was built using the [scrapy](http://doc.scrapy.org/en/1.1/index.html) framework.
