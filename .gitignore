@@ -6,6 +6,5 @@
 *.RData
 *.rdb
 *.html
-images/full/*
 hours.txt
 *.json
