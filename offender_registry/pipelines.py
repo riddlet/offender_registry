@@ -20,7 +20,7 @@ def clean_bulk_bookends(item, search_string1, search_string2):
 	if search_string2:
 		stringlist = [x.strip() for x in search_string2]
 	else:
-		stringlist = ''
+		stringlist = ['','Conviction Date:']
 	for i, j in enumerate(item):
 		if j.strip() == search_string1:
 			pos1.append(i+1)
